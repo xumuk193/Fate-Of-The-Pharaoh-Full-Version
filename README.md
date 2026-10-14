@@ -246,4 +246,4 @@ This repository serves as the official landing page for Fate of the Pharaoh. The
 **Get the most recent version of Fate of the Pharaoh today!**
 
 ---
-**Last updated:** 2026-10-13 22:11:17 UTC
+**Last updated:** 2026-10-14 01:31:58 UTC
